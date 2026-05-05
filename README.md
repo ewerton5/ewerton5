@@ -29,11 +29,17 @@
 
 <div align="center">
   <h3>📊 Estatísticas do GitHub</h3>
-
-  <img src="https://github-readme-stats-ewerton5s-projects.vercel.app/api?username=ewerton5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=3B82F6&amp;v=6" height="150" alt="Estatísticas do GitHub"/>
-
-  <img src="https://github-readme-stats-ewerton5s-projects.vercel.app/api/top-langs?username=ewerton5&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=3B82F6&amp;v=6" height="150" alt="Linguagens mais usadas"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/ewerton5">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewerton5&theme=tokyonight&hide_border=true&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&currStreakLabel=3B82F6" height="150" alt="GitHub Streak"/>
+  </a>
+
+  <a href="https://github.com/ewerton5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3B82F6" height="150" alt="Top Linguagens"/>
+  </a>
+</p>
 
 <br/>
 
