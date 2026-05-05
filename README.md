@@ -30,9 +30,9 @@
 <div align="center">
   <h3>📊 Estatísticas do GitHub</h3>
 
-  [![Estatísticas](https://github-readme-stats-ewerton5s-projects.vercel.app/api?username=ewerton5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3B82F6&v=2)](https://github.com/ewerton5)
-  
-  [![Linguagens](https://github-readme-stats-ewerton5s-projects.vercel.app/api/top-langs?username=ewerton5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3B82F6&v=2)](https://github.com/ewerton5)
+  <img src="https://github-readme-stats-ewerton5s-projects.vercel.app/api?username=ewerton5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=3B82F6&amp;v=5" height="150" alt="Estatísticas do GitHub"/>
+
+  <img src="https://github-readme-stats-ewerton5s-projects.vercel.app/api/top-langs?username=ewerton5&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=3B82F6&amp;v=5" height="150" alt="Linguagens mais usadas"/>
 </div>
 
 <br/>
