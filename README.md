@@ -1,24 +1,24 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ewerton+Vieira+!+%F0%9F%91%8B;Tech+Lead+%26+Software+Engineer;Especialista+em+React%2C+Node.js+%26+AWS;Engenheiro+pela+UFRJ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ewerton+Vieira+!+%F0%9F%91%8B;Tech+Lead+%26+Software+Engineer;Specialist+in+React%2C+Node.js+%26+AWS;Engineer+from+UFRJ" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-- 💼 **Tech Lead e Engenheiro de Software** com mais de 6 anos de experiência desenvolvendo soluções escaláveis.
-- 🏢 Empreendedor e fundador de uma empresa de desenvolvimento de software.
-- 🚀 Atuo na liderança técnica e mentoria de equipes de desenvolvedores (Front, Back e Firmware), com foco em arquitetura, código limpo e entregas ágeis.
-- 🎓 Formado em Engenharia Eletrônica e de Computação pela **UFRJ**.
-- ⚡ Foco principal no ecossistema Javascript/Typescript (React, React Native, Next.js, Node.js), Python e arquitetura Cloud.
-- 🥋 Fora do código: Sou faixa marrom de Karate, estudioso de táticas de xadrez, entusiasta de hardware e colecionador de jogos de tabuleiro.
+- 💼 **Tech Lead and Software Engineer** with over 6 years of experience building scalable solutions.
+- 🏢 Entrepreneur and founder of a software development company.
+- 🚀 Acting as a technical leader and mentor for development teams (Front-end, Back-end, and Firmware), focusing on architecture, clean code, and agile deliveries.
+- 🎓 B.S. in Electronics and Computer Engineering from **UFRJ**.
+- ⚡ Main focus on the JavaScript/TypeScript ecosystem (React, React Native, Next.js, Node.js), Python, and Cloud architecture.
+- 🥋 Beyond code: I am a brown belt in Karate, a student of chess tactics, a hardware enthusiast, and a board game collector.
 
 ---
 
 <div align="center">
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  <h3>🛠️ Technologies & Tools</h3>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,aws,tailwind,redux,docker,git,linux&perline=6" alt="Tech Stack" />
@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
+  <h3>📊 GitHub Stats</h3>
 </div>
 
 <p align="center">
@@ -37,14 +37,14 @@
   </a>
 
   <a href="https://github.com/ewerton5">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ewerton5&bg_color=0f172a&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" height="150" alt="Gráfico de Atividade"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ewerton5&bg_color=0f172a&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" height="150" alt="Activity Graph"/>
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-  <h3>🐍 Mapa de Contribuições</h3>
+  <h3>🐍 Contribution Map</h3>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ewerton5/ewerton5/output/github-contribution-grid-snake-dark.svg">
@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="https://ewerton5.github.io">
-    <img src="https://img.shields.io/badge/Portfólio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ewerton-vieira-ab8b111ab">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -65,5 +65,5 @@
 </div>
 
 <div align="center">
-  <img src="./fire.gif" width="100%" alt="Fogo real">
+  <img src="./fire.gif" width="100%" alt="Real fire">
 </div>
